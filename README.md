@@ -1,5 +1,7 @@
 # ProyectoDS_ParteIII_Gutierrez_Nicolas
-Análisis Predictivo de Accidentes de Tráfico
+
+## **Análisis Predictivo de Accidentes de Tráfico**
+
 Este proyecto se centra en el análisis y la predicción de accidentes de tráfico utilizando técnicas de ciencia de datos y aprendizaje automático. El objetivo principal es identificar los factores que contribuyen a la ocurrencia de accidentes, explorar patrones temporales y características de los conductores, y construir modelos predictivos que puedan predecir la gravedad y tipo de colisión de los accidentes.
 
 Descripción del Proyecto
@@ -8,7 +10,7 @@ El proyecto se basa en un conjunto de datos que contiene información detallada 
 Tipo de colisión (Type_of_collision)
 Experiencia de conducción (Driving_experience)
 Severidad del accidente (Accident_severity)
-Características del conductor (Edad, Sexo, Nivel Educativo)
+Características del conductor (Sexo, Nivel Educativo)
 A través de una serie de análisis exploratorios y técnicas de modelado, hemos investigado las siguientes preguntas de investigación:
 
 Factores Contribuyentes: ¿Cuáles son los factores más importantes que contribuyen a la cantidad de accidentes de tráfico?
